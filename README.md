@@ -1,3 +1,3 @@
 # git_sessions
 
-## Editting the Readme file
+## Editing the Readme file
